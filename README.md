@@ -20,7 +20,7 @@
 
 <br />
 
-![AutoTyping-Portfolio](/Preview.png)
+![AutoTyping-Portfolio](./Preview.PNG)
 
 ### Prerequisites
 
